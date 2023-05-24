@@ -1,0 +1,23 @@
+.brandText{
+
+    &.sm{
+        font-size: 1rem;
+    }
+
+    &.md{
+        font-size: 2.5rem;
+    }
+    
+    &.lg{
+        font-size: 4.5rem;
+    }
+    
+    &.xl{
+        letter-spacing: 50px;
+        font-size: 17rem;
+        white-space: nowrap;
+        color: $WHITE-2;
+        cursor: default;
+        user-select: none;
+    }
+}

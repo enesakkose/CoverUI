@@ -1,0 +1,41 @@
+.main{
+    
+
+    .hero{
+        height: calc(100% - 10rem);
+        width: 100%;
+        backdrop-filter: blur(1rem) saturate(180%);
+        background-color: $WHITE-2;
+        border-radius: .5rem;
+        padding: 3rem 2rem;
+        position: relative;
+        overflow: hidden;
+
+
+        .heading{
+            text-align: center;
+            cursor: default;
+            
+            .lgBrandText{
+                transition: 400ms opacity ease-in-out;
+            }
+        }
+
+        &:has(.lgBrandText:hover){
+            .lgBrandText{
+                opacity: .5;
+            }
+
+            .xlBrandText{
+                color: $WHITE-3;
+            }
+        }
+
+        .xlBrandText{
+            position: absolute;
+            top: 50%;
+            left: -2.5rem;
+            transition: color 0.4s ease-in-out;
+        }
+    }
+}
