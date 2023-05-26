@@ -1,0 +1,9 @@
+.sidebar{
+    .tabList{
+        display: flex;
+        flex-direction: column;
+        gap: .5rem;
+        padding-bottom: $P-3;
+        
+    }
+}

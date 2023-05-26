@@ -4,12 +4,12 @@ import styles from './BrandText.module.scss'
 
 type BrandTextPropsType = {
   className?: string,
-  variant?: 'sm' | 'md' | 'lg' | 'xl'
+  size?: 'sm' | 'md' | 'lg' | 'xl'
 }
 
-function BrandText({ className, variant = 'md' }: BrandTextPropsType) {
+function BrandText({ className, size = 'md' }: BrandTextPropsType) {
   return (
-    <span className={clsx(styles.brandText, styles[variant], className)}>
+    <span className={clsx(styles.brandText, styles[size], className)}>
       Cover UI.
     </span>
   )

@@ -1,0 +1,10 @@
+.main{
+
+    .hero{
+        height: calc(100% - 10rem);
+        width: 100%;
+        backdrop-filter: blur(1rem) saturate(180%);
+        background-color: $WHITE-2;
+        border-radius: .5rem;
+    }
+}

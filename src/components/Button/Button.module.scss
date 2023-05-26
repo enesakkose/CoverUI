@@ -1,0 +1,60 @@
+.button{
+    display: inline-flex;
+    align-items: center;
+    justify-content: center;
+    cursor: pointer;
+    background-color: transparent;
+    flex-shrink: 0;
+    font-weight: 500;
+    font-size: .875rem;
+
+    &:disabled{
+        opacity: .5;
+        pointer-events: none;
+    }
+
+    &.primary{
+        background-color: $GRAY-12;
+        border: 2px solid transparent;
+        transition: 300ms all ease-in-out;
+        color: $GRAY-1;
+
+        &:hover{
+            background-color: transparent;
+            border-color: $GRAY-12;
+            color: $GRAY-12;
+        }
+    }
+
+    &.outline{
+        background-color: transparent;
+        border: 2px solid $GRAY-12;
+        transition: 300ms all ease-in-out;
+        color: $GRAY-12;
+
+        &:hover{
+            background-color: $WHITE-2;
+        }
+    }
+
+    &.sm{
+        height: 2.5rem;
+        font-size: 1rem;
+        border-radius: 1.25rem;
+        padding-inline: $P-4;
+    }
+
+    &.md{
+        font-size: 1rem;
+        height: 3rem;
+        border-radius: 1.5rem;
+        padding-inline: $P-4;
+    }
+
+    &.lg{
+        font-size: 1.25rem;
+        height: 3.5rem;
+        border-radius: 1.75rem;
+        padding-inline: $P-5;
+    }
+}

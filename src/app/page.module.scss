@@ -1,16 +1,8 @@
-.main{
-    
-
-    .hero{
-        height: calc(100% - 10rem);
-        width: 100%;
-        backdrop-filter: blur(1rem) saturate(180%);
-        background-color: $WHITE-2;
-        border-radius: .5rem;
-        padding: 3rem 2rem;
+    .home{
+        height: 100%;
+        padding: $P-8 $P-6;
         position: relative;
         overflow: hidden;
-
 
         .heading{
             text-align: center;
@@ -31,11 +23,18 @@
             }
         }
 
+        .startButtons{
+            display: flex;
+            align-items: center;
+            justify-content: center;
+            gap: 1rem;
+            margin-top: $M-3;
+        }
+
         .xlBrandText{
             position: absolute;
-            top: 50%;
+            top: 45%;
             left: -2.5rem;
             transition: color 0.4s ease-in-out;
         }
     }
-}

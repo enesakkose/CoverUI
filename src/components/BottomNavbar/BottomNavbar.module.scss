@@ -1,0 +1,31 @@
+.bottomNavbar{
+    border-radius: .5rem;
+    padding: $P-2 $P-3;
+    position: fixed;
+    bottom: 1rem;
+    left: 50%;
+    transform: translateX(-50%);
+    z-index: 20;
+    backdrop-filter: blur(16px) ;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    gap: 5rem;
+    color: $GRAY-1;
+    background-color: hsla(0,0%,86%,.6);
+
+    .tabs{
+        display: flex;
+        align-items: center;
+        gap: 1rem;
+        
+        a{
+            font-weight: 600;
+            color: $GRAY-5;
+
+            &:hover{
+                color: $GRAY-1;
+            }
+        }
+    }
+}
