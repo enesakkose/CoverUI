@@ -1,0 +1,18 @@
+{
+  "title": "useMouseEffect",
+  "description": "A custom React hook that provides the current x and y coordinates of the mouse cursor, enabling you to track and respond to mouse movements within your components.",
+  "field": "Hook",
+  "body": {
+    "raw": "",
+    "html": ""
+  },
+  "_id": "hooks/useMouseEffect.mdx",
+  "_raw": {
+    "sourceFilePath": "hooks/useMouseEffect.mdx",
+    "sourceFileName": "useMouseEffect.mdx",
+    "sourceFileDir": "hooks",
+    "contentType": "mdx",
+    "flattenedPath": "hooks/useMouseEffect"
+  },
+  "type": "Docs"
+}

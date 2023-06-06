@@ -1,5 +1,6 @@
 import React from 'react'
 import clsx from 'clsx'
+import Link from 'next/link'
 import styles from './BrandText.module.scss'
 
 type BrandTextPropsType = {
@@ -9,9 +10,9 @@ type BrandTextPropsType = {
 
 function BrandText({ className, size = 'md' }: BrandTextPropsType) {
   return (
-    <span className={clsx(styles.brandText, styles[size], className)}>
+    <Link href='/' className={clsx(styles.brandText, styles[size], className)}>
       Cover UI.
-    </span>
+    </Link>
   )
 }
 

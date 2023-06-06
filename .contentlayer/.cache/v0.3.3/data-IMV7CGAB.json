@@ -1,0 +1,46 @@
+{
+  "cacheItemsMap": {
+    "installation.mdx": {
+      "document": {
+        "title": "Installation",
+        "body": {
+          "raw": "",
+          "html": ""
+        },
+        "_id": "installation.mdx",
+        "_raw": {
+          "sourceFilePath": "installation.mdx",
+          "sourceFileName": "installation.mdx",
+          "sourceFileDir": ".",
+          "contentType": "mdx",
+          "flattenedPath": "installation"
+        },
+        "type": "Docs"
+      },
+      "documentHash": "1686081207782",
+      "hasWarnings": false,
+      "documentTypeName": "Docs"
+    },
+    "overview.mdx": {
+      "document": {
+        "title": "Overview",
+        "body": {
+          "raw": "",
+          "html": ""
+        },
+        "_id": "overview.mdx",
+        "_raw": {
+          "sourceFilePath": "overview.mdx",
+          "sourceFileName": "overview.mdx",
+          "sourceFileDir": ".",
+          "contentType": "mdx",
+          "flattenedPath": "overview"
+        },
+        "type": "Docs"
+      },
+      "documentHash": "1686081228240",
+      "hasWarnings": false,
+      "documentTypeName": "Docs"
+    }
+  }
+}

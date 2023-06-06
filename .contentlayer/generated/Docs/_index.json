@@ -1,0 +1,146 @@
+[
+  {
+    "title": "Installation",
+    "description": "Develop your own React components using Cover UI, a free and open-source library designed to facilitate the creation of top-notch, inclusive design systems and web applications.",
+    "field": "Installation",
+    "body": {
+      "raw": "",
+      "html": ""
+    },
+    "_id": "installation.mdx",
+    "_raw": {
+      "sourceFilePath": "installation.mdx",
+      "sourceFileName": "installation.mdx",
+      "sourceFileDir": ".",
+      "contentType": "mdx",
+      "flattenedPath": "installation"
+    },
+    "type": "Docs"
+  },
+  {
+    "title": "Overview",
+    "description": "Develop your own React components using Cover UI, a free and open-source library designed to facilitate the creation of top-notch, inclusive design systems and web applications.",
+    "field": "Overview",
+    "body": {
+      "raw": "",
+      "html": ""
+    },
+    "_id": "overview.mdx",
+    "_raw": {
+      "sourceFilePath": "overview.mdx",
+      "sourceFileName": "overview.mdx",
+      "sourceFileDir": ".",
+      "contentType": "mdx",
+      "flattenedPath": "overview"
+    },
+    "type": "Docs"
+  },
+  {
+    "title": "Accordion",
+    "description": "The Accordion is a collapsible component that provides a concise and interactive way to present content sections. It allows users to expand and collapse sections with ease, enhancing usability and organization.",
+    "field": "Component",
+    "body": {
+      "raw": "",
+      "html": ""
+    },
+    "_id": "components/accordion.mdx",
+    "_raw": {
+      "sourceFilePath": "components/accordion.mdx",
+      "sourceFileName": "accordion.mdx",
+      "sourceFileDir": "components",
+      "contentType": "mdx",
+      "flattenedPath": "components/accordion"
+    },
+    "type": "Docs"
+  },
+  {
+    "title": "Alert",
+    "description": "An attention-grabbing modal dialog for important content and user responses.",
+    "field": "Component",
+    "body": {
+      "raw": "",
+      "html": ""
+    },
+    "_id": "components/alert.mdx",
+    "_raw": {
+      "sourceFilePath": "components/alert.mdx",
+      "sourceFileName": "alert.mdx",
+      "sourceFileDir": "components",
+      "contentType": "mdx",
+      "flattenedPath": "components/alert"
+    },
+    "type": "Docs"
+  },
+  {
+    "title": "Avatar",
+    "description": "A versatile image component that gracefully handles user representations",
+    "field": "Component",
+    "body": {
+      "raw": "",
+      "html": ""
+    },
+    "_id": "components/avatar.mdx",
+    "_raw": {
+      "sourceFilePath": "components/avatar.mdx",
+      "sourceFileName": "avatar.mdx",
+      "sourceFileDir": "components",
+      "contentType": "mdx",
+      "flattenedPath": "components/avatar"
+    },
+    "type": "Docs"
+  },
+  {
+    "title": "useClickOutside",
+    "description": "A custom React hook that detects clicks outside of a specified element, allowing you to easily implement click outside functionality in your components.",
+    "field": "Hook",
+    "body": {
+      "raw": "",
+      "html": ""
+    },
+    "_id": "hooks/useClickOutside.mdx",
+    "_raw": {
+      "sourceFilePath": "hooks/useClickOutside.mdx",
+      "sourceFileName": "useClickOutside.mdx",
+      "sourceFileDir": "hooks",
+      "contentType": "mdx",
+      "flattenedPath": "hooks/useClickOutside"
+    },
+    "type": "Docs"
+  },
+  {
+    "title": "useGetWindowSize",
+    "description": "A powerful React hook that dynamically detects and provides the current media breakpoint based on the window size, allowing you to easily adapt your components and layout for different screen sizes and responsiveness.",
+    "field": "Hook",
+    "body": {
+      "raw": "",
+      "html": ""
+    },
+    "_id": "hooks/useGetWindowSize.mdx",
+    "_raw": {
+      "sourceFilePath": "hooks/useGetWindowSize.mdx",
+      "sourceFileName": "useGetWindowSize.mdx",
+      "sourceFileDir": "hooks",
+      "contentType": "mdx",
+      "flattenedPath": "hooks/useGetWindowSize"
+    },
+    "type": "Docs"
+  },
+  {
+    "title": "useMouseEffect",
+    "description": "A custom React hook that provides the current x and y coordinates of the mouse cursor, enabling you to track and respond to mouse movements within your components.",
+    "field": "Hook",
+    "body": {
+      "raw": "",
+      "html": ""
+    },
+    "_id": "hooks/useMouseEffect.mdx",
+    "_raw": {
+      "sourceFilePath": "hooks/useMouseEffect.mdx",
+      "sourceFileName": "useMouseEffect.mdx",
+      "sourceFileDir": "hooks",
+      "contentType": "mdx",
+      "flattenedPath": "hooks/useMouseEffect"
+    },
+    "type": "Docs"
+  }
+]

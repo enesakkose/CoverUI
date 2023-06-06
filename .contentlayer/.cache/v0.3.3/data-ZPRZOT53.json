@@ -1,0 +1,46 @@
+{
+  "cacheItemsMap": {
+    "installation.md": {
+      "document": {
+        "title": "Installation",
+        "body": {
+          "raw": "",
+          "html": ""
+        },
+        "_id": "installation.md",
+        "_raw": {
+          "sourceFilePath": "installation.md",
+          "sourceFileName": "installation.md",
+          "sourceFileDir": ".",
+          "contentType": "markdown",
+          "flattenedPath": "installation"
+        },
+        "type": "Docs"
+      },
+      "documentHash": "1686081207782",
+      "hasWarnings": false,
+      "documentTypeName": "Docs"
+    },
+    "overview.md": {
+      "document": {
+        "title": "Overview",
+        "body": {
+          "raw": "",
+          "html": ""
+        },
+        "_id": "overview.md",
+        "_raw": {
+          "sourceFilePath": "overview.md",
+          "sourceFileName": "overview.md",
+          "sourceFileDir": ".",
+          "contentType": "markdown",
+          "flattenedPath": "overview"
+        },
+        "type": "Docs"
+      },
+      "documentHash": "1686081228240",
+      "hasWarnings": false,
+      "documentTypeName": "Docs"
+    }
+  }
+}

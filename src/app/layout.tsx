@@ -1,4 +1,4 @@
-import { Inter } from 'next/font/google'
+import { Inter, Barlow } from 'next/font/google'
 import Header from '@/components/Header'
 import MainContainer from '@/containers/MainContainer'
 import BottomNavbar from '@/components/BottomNavbar'
@@ -17,15 +17,21 @@ const inter = Inter({
   display: 'swap',
 })
 
+const barlow = Barlow({
+  subsets: ['latin'],
+  variable: '--font-barlow',
+  display: 'swap',
+  weight: ['400', '500', '700', '900']
+})
+
 export default function RootLayout({ children }: { children: React.ReactNode }) {
   return (
-    <html lang='en' className={inter.className}>
+    <html lang='en' className={barlow.className}>
       <body>
         <MainContainer as='main' className={styles.main}>
           <Header />
           <section className={styles.hero}>{children}</section>
         </MainContainer>
-        <BottomNavbar />
       </body>
     </html>
   )

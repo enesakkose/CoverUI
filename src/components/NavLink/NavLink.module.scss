@@ -1,0 +1,19 @@
+.navLink{
+    color: $GRAY-11;
+    font-weight: 400;
+
+    &.primary{
+        transition: 150ms color ease-in-out;
+
+        &.active, &:hover{
+            color: $GRAY-12;
+        }
+    }
+
+    &.underline{
+
+        &:hover, &.active{
+            text-decoration: underline;
+        }
+    }
+}

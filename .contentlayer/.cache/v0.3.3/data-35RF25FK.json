@@ -1,0 +1,114 @@
+{
+  "cacheItemsMap": {
+    "installation.mdx": {
+      "document": {
+        "title": "Installation",
+        "description": "Develop your own React components using Cover UI, a free and open-source library designed to facilitate the creation of top-notch, inclusive design systems and web applications.",
+        "body": {
+          "raw": "",
+          "html": ""
+        },
+        "_id": "installation.mdx",
+        "_raw": {
+          "sourceFilePath": "installation.mdx",
+          "sourceFileName": "installation.mdx",
+          "sourceFileDir": ".",
+          "contentType": "mdx",
+          "flattenedPath": "installation"
+        },
+        "type": "Docs"
+      },
+      "documentHash": "1686086153400",
+      "hasWarnings": false,
+      "documentTypeName": "Docs"
+    },
+    "overview.mdx": {
+      "document": {
+        "title": "Overview",
+        "description": "Develop your own React components using Cover UI, a free and open-source library designed to facilitate the creation of top-notch, inclusive design systems and web applications.",
+        "body": {
+          "raw": "",
+          "html": ""
+        },
+        "_id": "overview.mdx",
+        "_raw": {
+          "sourceFilePath": "overview.mdx",
+          "sourceFileName": "overview.mdx",
+          "sourceFileDir": ".",
+          "contentType": "mdx",
+          "flattenedPath": "overview"
+        },
+        "type": "Docs"
+      },
+      "documentHash": "1686086167534",
+      "hasWarnings": false,
+      "documentTypeName": "Docs"
+    },
+    "components/accordion.mdx": {
+      "document": {
+        "title": "Accordion",
+        "description": "The Accordion is a collapsible component that provides a concise and interactive way to present content sections. It allows users to expand and collapse sections with ease, enhancing usability and organization.",
+        "body": {
+          "raw": "",
+          "html": ""
+        },
+        "_id": "components/accordion.mdx",
+        "_raw": {
+          "sourceFilePath": "components/accordion.mdx",
+          "sourceFileName": "accordion.mdx",
+          "sourceFileDir": "components",
+          "contentType": "mdx",
+          "flattenedPath": "components/accordion"
+        },
+        "type": "Docs"
+      },
+      "documentHash": "1686090675506",
+      "hasWarnings": false,
+      "documentTypeName": "Docs"
+    },
+    "components/alert.mdx": {
+      "document": {
+        "title": "Alert",
+        "description": "An attention-grabbing modal dialog for important content and user responses.",
+        "body": {
+          "raw": "",
+          "html": ""
+        },
+        "_id": "components/alert.mdx",
+        "_raw": {
+          "sourceFilePath": "components/alert.mdx",
+          "sourceFileName": "alert.mdx",
+          "sourceFileDir": "components",
+          "contentType": "mdx",
+          "flattenedPath": "components/alert"
+        },
+        "type": "Docs"
+      },
+      "documentHash": "1686090951330",
+      "hasWarnings": false,
+      "documentTypeName": "Docs"
+    },
+    "components/avatar.mdx": {
+      "document": {
+        "title": "Avatar",
+        "description": "A versatile image component that gracefully handles user representations",
+        "body": {
+          "raw": "",
+          "html": ""
+        },
+        "_id": "components/avatar.mdx",
+        "_raw": {
+          "sourceFilePath": "components/avatar.mdx",
+          "sourceFileName": "avatar.mdx",
+          "sourceFileDir": "components",
+          "contentType": "mdx",
+          "flattenedPath": "components/avatar"
+        },
+        "type": "Docs"
+      },
+      "documentHash": "1686091174848",
+      "hasWarnings": false,
+      "documentTypeName": "Docs"
+    }
+  }
+}

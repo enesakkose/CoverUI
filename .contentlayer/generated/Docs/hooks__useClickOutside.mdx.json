@@ -1,0 +1,18 @@
+{
+  "title": "useClickOutside",
+  "description": "A custom React hook that detects clicks outside of a specified element, allowing you to easily implement click outside functionality in your components.",
+  "field": "Hook",
+  "body": {
+    "raw": "",
+    "html": ""
+  },
+  "_id": "hooks/useClickOutside.mdx",
+  "_raw": {
+    "sourceFilePath": "hooks/useClickOutside.mdx",
+    "sourceFileName": "useClickOutside.mdx",
+    "sourceFileDir": "hooks",
+    "contentType": "mdx",
+    "flattenedPath": "hooks/useClickOutside"
+  },
+  "type": "Docs"
+}

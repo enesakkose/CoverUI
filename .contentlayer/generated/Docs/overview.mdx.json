@@ -1,0 +1,18 @@
+{
+  "title": "Overview",
+  "description": "Develop your own React components using Cover UI, a free and open-source library designed to facilitate the creation of top-notch, inclusive design systems and web applications.",
+  "field": "Overview",
+  "body": {
+    "raw": "",
+    "html": ""
+  },
+  "_id": "overview.mdx",
+  "_raw": {
+    "sourceFilePath": "overview.mdx",
+    "sourceFileName": "overview.mdx",
+    "sourceFileDir": ".",
+    "contentType": "mdx",
+    "flattenedPath": "overview"
+  },
+  "type": "Docs"
+}

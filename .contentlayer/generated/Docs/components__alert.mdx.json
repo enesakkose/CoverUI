@@ -1,0 +1,18 @@
+{
+  "title": "Alert",
+  "description": "An attention-grabbing modal dialog for important content and user responses.",
+  "field": "Component",
+  "body": {
+    "raw": "",
+    "html": ""
+  },
+  "_id": "components/alert.mdx",
+  "_raw": {
+    "sourceFilePath": "components/alert.mdx",
+    "sourceFileName": "alert.mdx",
+    "sourceFileDir": "components",
+    "contentType": "mdx",
+    "flattenedPath": "components/alert"
+  },
+  "type": "Docs"
+}

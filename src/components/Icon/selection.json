@@ -63,6 +63,16 @@
         "name": "copy-file",
         "iconSetName": "carbon"
       }
+    },
+    {
+      "icon": {
+        "paths": [
+          "M854.6 406.6l-320 320a32 32 0 0 1-45.2 0l-320-320A32 32 0 0 1 214.6 361.4L512 658.8l297.4-297.4a32 32 0 0 1 45.2 45.2Z"
+        ],
+        "attrs": [{}],
+        "width": 1024
+      },
+      "properties": { "name": "chevron" }
     }
   ]
 }

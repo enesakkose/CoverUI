@@ -1,7 +1,7 @@
+"use client"
 import React, { ButtonHTMLAttributes } from 'react'
 import clsx from 'clsx'
 import { Slot } from '@radix-ui/react-slot'
-import Link, { type LinkProps } from 'next/link'
 import styles from './Button.module.scss'
 
 export type ButtonPropsType = {
@@ -11,9 +11,6 @@ export type ButtonPropsType = {
   className?: string
   children: React.ReactNode
 } & ButtonHTMLAttributes<HTMLButtonElement>
-
-//type ButtonWithoutLink = ButtonHTMLAttributes<HTMLButtonElement> & ButtonPropsType
-//type ButtonWithLink = LinkProps & ButtonPropsType
 
 function Button({
   variant = 'unstyled',
@@ -25,7 +22,7 @@ function Button({
 }: ButtonPropsType) {
   const Element = asChild ? Slot : 'button'
   return (
-    <Element className={clsx(styles.button, styles[variant], styles[size], className)} {...props} >
+    <Element className={clsx(styles.button, styles[variant], styles[size], className)} {...props}>
       {children}
     </Element>
   )

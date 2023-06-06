@@ -1,0 +1,18 @@
+{
+  "title": "Avatar",
+  "description": "A versatile image component that gracefully handles user representations",
+  "field": "Component",
+  "body": {
+    "raw": "",
+    "html": ""
+  },
+  "_id": "components/avatar.mdx",
+  "_raw": {
+    "sourceFilePath": "components/avatar.mdx",
+    "sourceFileName": "avatar.mdx",
+    "sourceFileDir": "components",
+    "contentType": "mdx",
+    "flattenedPath": "components/avatar"
+  },
+  "type": "Docs"
+}

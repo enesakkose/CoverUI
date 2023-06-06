@@ -1,4 +1,3 @@
-import MainContainer from '@/containers/MainContainer'
 import BrandText from '@/components/BrandText'
 import Button from '@/components/Button'
 import Icon from '@/components/Icon'
